@@ -1,0 +1,208 @@
+body{
+
+	background-image: url("../images/bg1.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	
+	
+}
+#id1{
+	font-family: verdana;
+	text-align: center;
+	color: orange;
+	
+}
+.para1{
+	color: white;
+	text-align: center;
+}
+/*
+.para1{
+	color: Blue
+}
+*/
+
+.header1{
+	background-color: Tomato;
+	text-align: center;
+}
+.para2{
+	background-color: tomato;
+	color: white;
+	text-align: center;
+
+}
+h2{
+	color: white;
+}
+.div3{
+	text-align: center;
+	color: white;
+}
+.dotted{
+	border-style: dotted;
+	border-color: tomato;
+	border-width: medium;
+}
+
+.dashed{
+	border-color: orange;
+	border-style: dashed;
+	border-width: 2px;
+}
+
+.solid{
+	border-style: solid;
+	border-color: dodgerblue;
+	border-width: 5px;
+}
+
+.double{
+	border-style: double;
+	border-color: mediumseagreen;
+	border-width: thick;
+}
+
+.groove{
+	border-style: groove;
+	border-color: gray;
+	border-width: 15px;
+}
+
+.ridge{
+	border-style: ridge;
+	border-color: slateblue;
+	border-width: thick;
+}
+.inset{
+	border-style: inset;
+	border-color: violet;
+	border-width: 2px;
+}
+
+.outset{
+	border-style: outset;
+	border-color: tomato;
+	border-width: thick;
+}
+.none{
+	border-style: none;
+	border-color: orange;
+	border-width: 15px;
+}
+
+.hidden{
+	border-style: hidden;
+	border-color: dodgerblue;
+	border-width: 5px;
+}
+
+.mix{
+	border-style: dotted dashed solid double;
+	border-color: mediumseagreen;
+	border-width: 5px;
+}
+.rounded1{
+	border-style: solid;
+	border-radius: 5px;
+	border-color: orange;
+}
+
+
+.margin1{
+	border-style: solid;
+	border-color: whitesmoke;
+	text-align: center;
+	margin: 70px;
+	padding: 10px 0 10px 0;
+	color: white;
+}
+
+.box{
+	width: 100px;
+	height: 100px;
+	margin: 20px auto;
+	border: 2px solid lightblue;
+	padding: 20px;
+
+
+}
+.content{
+	text-align: center;
+	color: #000000;
+	background-color: white;
+	margin: auto;
+}
+.div1{
+	width: 100%;
+	height: 50px;
+	border: 1px solid #00FFFF;
+
+}
+.div2{
+	width: 300px;
+	border: 15px solid green;
+	padding: 50px;
+	margin: 20px;
+	background-color: dodgerblue;
+}
+
+h4{
+	border: 2px solid black;
+	text-align: center;
+	padding: 20px;
+	margin: 50px;
+	outline: #4caf50 solid 10px;
+	color: white;
+	outline-width: thick;
+	outline-color: gray;
+	outline-offset: 5px;
+
+}
+
+.div4{
+	border: 1px solid gray;
+	padding: 8px;
+}
+.heading3{
+	text-align: center;
+	text-transform: uppercase;
+	color: orange;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.para5{
+	text-indent: 50px;
+	text-align: justify;
+	letter-spacing: 3px;
+}
+
+h3{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2rem;
+}
+
+h5{
+	text-align: left;
+	text-transform: lowercase;
+	font-size: 2rem;
+}
+
+h6{
+	text-align: right;
+	text-transform: capitalize;
+	font-size: 2rem;
+	
+}
+
+.end{
+	text-shadow: 2px 2px;
+	text-align: center;
+	
+}
